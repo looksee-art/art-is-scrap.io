@@ -2,9 +2,11 @@
 
 ## ART IS SCRAP
 
-```
+
 
 Piece 1: Old fence guards garage...
+
+Visit Whitelands Estate to view this piece!
 
 ![](SCRAP_SEE_01_LI.jpg)
 
