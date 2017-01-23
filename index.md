@@ -10,7 +10,7 @@ In it's natural sub-urban surroundings!
 ![](SCRAP_SEE_01_LI.jpg)
 
 look-see is on a mission to 
-_find something in everything_
+_find something in everything_ !?
 
 
 
