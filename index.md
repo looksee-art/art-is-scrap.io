@@ -1,12 +1,11 @@
-# LOOK-SEE ART
-
-You can use the [editor on GitHub](https://github.com/looksee-art/art-is-scrap.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
+#        THATCHAM BASED ARTIST: LOOK-SEE ART
 
 ## ART IS SCRAP
 
 ```
+
+Piece 1: Old fence guards garage...
+
 ![](SCRAP_SEE_01_LI.jpg)
 
 
