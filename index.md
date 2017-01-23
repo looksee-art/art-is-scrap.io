@@ -7,6 +7,9 @@ You can use the [editor on GitHub](https://github.com/looksee-art/art-is-scrap.i
 ## ART IS SCRAP
 
 ```
+![](images/image.png)
+
+
 look-see is on a mission to 
 _find something in everything_
 
