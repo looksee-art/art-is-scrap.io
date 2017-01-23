@@ -7,7 +7,14 @@
 Visit Whitelands Estate to view this piece as it should be seen...
 In it's natural sub-urban surroundings!
 
-![](SCRAP_SEE_01_LI.jpg)
+Take a pile of fencing infront of my garage...
+![](wood pile original.jpg)
+
+But DONT THROW IT AWAY!
+Look at it in a new way!
+Find it's natural beauty...
+
+![](wood pile reworked.jpg)
 
 look-see is on a mission to 
 _find something in everything_ !?
