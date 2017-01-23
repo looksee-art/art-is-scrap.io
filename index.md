@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/looksee-art/art-is-scrap.i
 ## ART IS SCRAP
 
 ```
-![](https://github.com/looksee-art/art-is-scrap.io/blob/master/SCRAP_SEE_01_LI.jpg)
+![](SCRAP_SEE_01_LI.jpg)
 
 
 look-see is on a mission to 
